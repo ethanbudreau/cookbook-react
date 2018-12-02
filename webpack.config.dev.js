@@ -18,7 +18,6 @@ module.exports = {
     vendor: [
       'react',
       'react-dom',
-      // test,
     ],
   },
 
