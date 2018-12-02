@@ -13,7 +13,6 @@ module.exports = {
       'webpack/hot/only-dev-server',
       'react-hot-loader/patch',
       './client/index.js',
-      //  test
     ],
     vendor: [
       'react',
